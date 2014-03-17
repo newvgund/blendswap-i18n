@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
 "POT-Creation-Date: 2014-02-17 10:44-0600\n"
-"PO-Revision-Date: 2014-03-17 12:08+0100\n"
+"PO-Revision-Date: 2014-03-17 17:02+0100\n"
 "Last-Translator: Benny <Benny@GMX.it>\n"
 "Language-Team: Blend Swap Translators <support@blendswap.com>\n"
 "Language: nl\n"
@@ -65,10 +65,9 @@ msgstr ""
 "tag en scheid meerdere labels door komma's."
 
 #: Model/Blend.php:validation for field tags
-#, fuzzy
 msgid "Those are not tags, enter two or more tags separated by commas."
 msgstr ""
-"Dat zijn helemaal geen labels! Schrijf geldige - komma gescheiden - labels!"
+"Dat zijn helemaal geen tags! Schrijf geldige - komma gescheiden - tags!"
 
 #: Model/Blend.php:validation for field categories
 #: Model/Request.php:validation requirements
@@ -168,9 +167,8 @@ msgid "This does not look like an URL"
 msgstr "Dit ziet er niet uit als een URL"
 
 #: Model/Profile.php:validation for field description
-#, fuzzy
 msgid "The bio must be between 24 and 512 characters long"
-msgstr "De bio moet tussen de 24 en 1024 karakters zijn!"
+msgstr "De bio moet tussen de 24 en 512 karakters zijn"
 
 #: Model/Question.php:validation for field body
 msgid "Your question needs a body with details."
@@ -281,9 +279,8 @@ msgstr ""
 "niet worden ontvangen door deze domein/server."
 
 #: Model/User.php:validation for field password
-#, fuzzy
 msgid "Must be between 8 and 1024 characters long"
-msgstr "Moet tussen de 8 en 128 karakters zijn"
+msgstr "Moet tussen de 8 en 1024 karakters zijn"
 
 #: Model/User.php:validation for field first_name;validation last_name
 msgid "Must be 2 letters or more."
