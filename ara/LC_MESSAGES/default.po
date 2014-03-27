@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-02-22 11:18+0200\n"
+"PO-Revision-Date: 2014-03-27 11:09+0200\n"
 "Last-Translator: Muhammad Khaled <khalidsrri@gmail.com>\n"
 "Language-Team: Blend Swap Translators <khalidsrri@gmail.com>\n"
 "Language: ar\n"
@@ -66,8 +66,7 @@ msgid ""
 "We are preparing to update the site's back end software, so we have disabled "
 "uploads for now. Sorry for the inconvenience."
 msgstr ""
-"إننا نقوم بتحديثات النهائية للموقع , لذلك فقد أوقفنا عملية الرفع حاليا . "
-"نأسف للإزعاج"
+"إننا نقوم بتحديث الموقع , لذلك فقد أوقفنا عملية الرفع حاليا . نأسف للإزعاج"
 
 #: Controller/BlendsController.php:428
 msgid "Your blend was successfully saved and is now waiting for moderation."
@@ -115,7 +114,7 @@ msgstr "تم نشر البلند , شكرا لإكماله"
 msgid ""
 "The blend was updated, thanks for completing it. it is now waiting for "
 "moderation."
-msgstr "تم تحديث البلند , كشرا على إكماله.إنه الآن بإنتظار المشرف ."
+msgstr "تم تحديث البلند , شكرا على إكماله.إنه الآن بإنتظار المشرف ."
 
 #: Controller/BlendsController.php:1126
 msgid "The blend has been saved"
@@ -2039,7 +2038,7 @@ msgstr ""
 
 #: View/Blends/user.ctp:7 View/Elements/user_nav_bar.ctp:11
 msgid "%s's blends"
-msgstr "%s بلند"
+msgstr "%s بلندات"
 
 #: View/Blends/view.ctp:22 View/Elements/bars/news_actions.ctp:24
 #: View/Users/view.ctp:25
@@ -3016,7 +3015,7 @@ msgstr "أسئلة شائعة و أجوبة"
 
 #: View/Elements/menus/topMenu.ctp:53 View/Users/index.ctp:23
 msgid "Blends"
-msgstr "بلند"
+msgstr "بلندات"
 
 #: View/Elements/menus/topMenu.ctp:55
 msgid "All blends"
@@ -4922,7 +4921,7 @@ msgstr "نقطة"
 
 #: View/Users/forhire.ctp:11 View/Users/view.ctp:46
 msgid "blends"
-msgstr "بلندات"
+msgstr "بلند"
 
 #: View/Users/forhire.ctp:24
 msgid "This user has not set their skills yet..."
