@@ -14,6 +14,7 @@ We're covered with the following languages:
 + [Serbian](https://github.com/vido89/blendswap-i18n)
 + [Greek](https://github.com/loritalane/blendswap-i18n) (*Deprecated for lack of maintenance*)
 + French (*ORPHAN BRANCH! Deprecated for lack of maintenance*)
++ [korean](https://github.com/newvgund/blendswap-i18n)
 
 
 
