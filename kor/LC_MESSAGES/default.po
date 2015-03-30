@@ -13,37 +13,45 @@ msgstr ""
 "Language: Korean\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+# 게임에서는 '도전과제'란 의미로 쓰입니다. 성과? 어떻게 번역하면 좋을까요?
 #: Controller/AchievementsController.php:21 View/Users/view.ctp:133
+#, fuzzy
 msgid "Achievements"
-msgstr ""
+msgstr "도전과제"
 
 #: Controller/AppController.php:1013
 msgid "Search stuff..."
 msgstr ""
 
+# badge 의 의미가 무엇인지? 뱃지로 그대로 번역하면 되는지?
 #: Controller/BadgesController.php:93;124;150
+#, fuzzy
 msgid "Invalid badge"
-msgstr ""
+msgstr "잘못된 badge 입니다."
 
 #: Controller/BadgesController.php:107;128
+#, fuzzy
 msgid "The badge has been saved"
-msgstr ""
+msgstr "badge 를 성공적으로 저장 했습니다."
 
 #: Controller/BadgesController.php:110;131
+#, fuzzy
 msgid "The badge could not be saved. Please, try again."
-msgstr ""
+msgstr "badge 를 저장하지 못했습니다. 다시 한번 시도해 주세요."
 
 #: Controller/BadgesController.php:153
+#, fuzzy
 msgid "Badge deleted"
-msgstr ""
+msgstr "badge 를 성공적으로 지웠습니다."
 
 #: Controller/BadgesController.php:156
+#, fuzzy
 msgid "Badge was not deleted"
-msgstr ""
+msgstr "badge 를 지우는데 실패 했습니다."
 
 #: Controller/BlendsController.php:250;501;532
 msgid "Invalid blend"
-msgstr ""
+msgstr "잘못된 blend 파일 입니다."
 
 #: Controller/BlendsController.php:262
 msgid "This blend is not published..."
@@ -55,7 +63,7 @@ msgstr ""
 
 #: Controller/BlendsController.php:357
 msgid "Error while processing your"
-msgstr ""
+msgstr "작업을 수행하는 도중에 에러가 발생했습니다 -"
 
 #: Controller/BlendsController.php:367
 msgid "Deletion complete"
@@ -66,16 +74,19 @@ msgid "Advanced Stats"
 msgstr ""
 
 #: Controller/BlendsController.php:433 View/Elements/blendswap-top-menu.ctp:89
+#, fuzzy
 msgid "Staff Picks"
-msgstr ""
+msgstr "스태프의 선정"
 
 #: Controller/BlendsController.php:505
+#, fuzzy
 msgid "The blend has been saved"
-msgstr ""
+msgstr "blend 파일이 저장되었습니다."
 
 #: Controller/BlendsController.php:510
+#, fuzzy
 msgid "The blend could not be saved. Please, try again."
-msgstr ""
+msgstr "blend 파일을 저장하지 못했습니다. 다시 한번 시도해 주세요."
 
 #: Controller/BlendsController.php:535
 msgid "Blend deleted"
